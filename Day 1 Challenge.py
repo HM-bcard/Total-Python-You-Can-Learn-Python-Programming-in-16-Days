@@ -1,0 +1,1 @@
+print('\"' + input('Give me a random fruit name for a beer 1:')+' '+input('Give me a random animal name for a beer 2: ')+ '\"')
