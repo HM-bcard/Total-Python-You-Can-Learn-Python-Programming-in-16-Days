@@ -46,10 +46,6 @@ print(type(result))
 print(result)
 
 
-
-
-
-
 def check_3_digits(list1):
 
     three_digits_list = []

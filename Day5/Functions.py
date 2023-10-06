@@ -35,3 +35,11 @@ def greet_person(name):
 
 
 greet_person('Boob')
+
+
+def greet():
+    print('"Hello world!"')
+
+
+greet()
+
