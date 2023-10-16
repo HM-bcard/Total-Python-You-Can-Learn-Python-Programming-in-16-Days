@@ -4,3 +4,5 @@
 
 
 def throw_dice(dice1, dice2):
+    dice1 = [1,2,3,4,5,6]
+    
